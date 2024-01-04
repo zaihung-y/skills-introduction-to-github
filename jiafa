@@ -1,0 +1,7 @@
+#include<studio.h>
+int main()
+{inta,b,c;
+a=100,b=100;
+c=a+b;
+printf"c=%d\n,c"
+}
